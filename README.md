@@ -1,2 +1,2 @@
-# jura
+# jura.
 Jurassic World Generator
